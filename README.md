@@ -48,7 +48,9 @@ The above graph gives us the most popular products (arranged in descending order
 **Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who bought items similar items**
 
 Recommending top 10 highly correlated products in sequence based on a customer's purchase history:
-image
+
+![image](https://user-images.githubusercontent.com/83244323/135291088-77e09d78-7998-44b9-91bb-24c1019299b5.png)
+
 
 **Conclusion:**
 
@@ -61,7 +63,9 @@ Product Id #: Here are the top 10 products to be displayed by the recommendation
 For a business without any user-item purchase history, a search engine based recommendation system can be designed for users. The product recommendations can be based on textual clustering analysis given in product description.
 
 **Visualizing product clusters in subset of data:**
-image
+
+![image](https://user-images.githubusercontent.com/83244323/135291230-b35c8d8e-7926-431e-8458-ec10468e6897.png)
+
 
 Top words in the first 3 clusters based on text analysis and clustering techniques applied to product description:
 
