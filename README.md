@@ -36,7 +36,8 @@ For a business without any user-item purchase history, a search engine based rec
 
 Popularity based are a great strategy to target the new customers with the most popular products sold on a business's website and is very useful to cold start a recommendation engine.
 
-image
+![image](https://user-images.githubusercontent.com/83244323/135290648-c6e877f8-9429-4bd9-bbf6-1a48c2fd6bfc.png)
+
 
 **Analysis:**
 
@@ -53,7 +54,7 @@ image
 
 Product Id #: Here are the top 10 products to be displayed by the recommendation system to the above customer based on the purchase history of other customers in the website.
 
-**Recommendation system part III:****
+**Recommendation system part III:**
 
 **Cold start problem for new businesses: When a business is setting up its e-commerce website for the first time without any historical data on product rating**
 
